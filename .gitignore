@@ -1,0 +1,21 @@
+# Abaikan virtual environment
+venv/
+
+# Abaikan folder upload sementara
+uploads/
+
+# File konfigurasi lokal (jika digunakan)
+.env
+
+# File backup/editor
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs (kalau kamu logging ke file)
+*.log
