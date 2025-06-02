@@ -30,7 +30,7 @@ Resume Screening AI adalah aplikasi web berbasis Flask yang memanfaatkan Machine
 
 - **Backend**: Flask, Python
 - **Frontend**: HTML, Bootstrap 5, Chart.js
-- **ML Model**: TF-IDF + Klasifikasi (Logistic Regression / Naive Bayes)
+- **ML Model**: TF-IDF + Multinomial Naive Bayes)
 - **Deployment**: Railway
 
 ---
