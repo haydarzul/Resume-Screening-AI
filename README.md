@@ -10,7 +10,7 @@ Resume Screening AI adalah aplikasi web berbasis Flask yang memanfaatkan Machine
 
 ## 🚀 Demo
 
-🖥️ Live Demo: [ai-resume-screening.up.railway.app](ai-resume-screening.up.railway.app)  
+🖥️ Live Demo: [ai-resume-screening.up.railway.app](https://ai-resume-screening.up.railway.app/)  
 
 
 ---
